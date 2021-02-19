@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- Revathy C S -- <twitter>
+    <name> -- Revathy Sathyendran -- <twitter>
 
 # THANKS
 
@@ -12,6 +12,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+<<<<<<< HEAD
     Machine Learning
     AWS
     Google cloud
