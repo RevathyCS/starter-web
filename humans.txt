@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- Revathy Sathyendran -- <twitter>
+	doing some changes in local
 
 # THANKS
 
@@ -13,7 +14,7 @@ devops engineer
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-<<<<<<< HEAD
+    HEAD
     Machine Learning
     AWS
     Google cloud
