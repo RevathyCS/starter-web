@@ -8,6 +8,7 @@
 # THANKS
 
     thanks to all people ou there
+devops engineer
 
 # TECHNOLOGY COLOPHON
 
