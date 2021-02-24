@@ -10,5 +10,7 @@ Adding git rebase advance and merging
 ## Introduction
 
 This is the introduction the devops
+Lot of lectures are still coming on
+
 
 
