@@ -18,3 +18,4 @@ adding important notes
     Machine Learning
     AWS
     Google cloud
+solution architecht
