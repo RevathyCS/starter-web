@@ -12,5 +12,7 @@ Adding git rebase advance and merging
 This is the introduction the devops
 Lot of lectures are still coming on
 
+## Git camparisons
+adding new lectures
 
 
