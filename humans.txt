@@ -10,7 +10,7 @@
 
     thanks to all people ou there
 devops engineer
-
+adding important notes
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
